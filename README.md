@@ -1,4 +1,3 @@
-<!-- Banner / Top GIF (optional, remove if you don't want it) -->
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 # 💫 About Me
@@ -7,8 +6,7 @@ Hi, I’m **Angshuman** — curious by nature, always experimenting, and happies
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angshuman-chakravertty-225513287/)  
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angshumanchakravertty2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angshuman-chakravertty-225513287/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angshumanchakravertty2@gmail.com)
 
 ---
 
