@@ -12,7 +12,7 @@ Hi, I’m **Angshuman** — curious by nature, always experimenting, and happies
 
 ---
 
-# 💻 Tech Stack (Animated-Style Icons)
+# 💻 Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,ts,aws,firebase,vercel,netlify,angular,fastapi,flask,nodejs,nextjs,threejs,react,anaconda,mysql,postgres,sqlite,redis,supabase,prisma,pytorch,tensorflow,sklearn,git,github,docker,kubernetes,postman,notion" />
 </p>
