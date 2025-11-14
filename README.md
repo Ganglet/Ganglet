@@ -66,7 +66,6 @@ Hi, I’m **Angshuman** — curious by nature, always experimenting, and happies
 ![](https://github-readme-stats.vercel.app/api?username=Ganglet&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Ganglet&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganglet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Metrics](https://metrics.lecoq.io/Ganglet?template=classic&config.timezone=Asia%2FKolkata)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganglet&theme=react-dark&hide_border=true)
 
 ---
