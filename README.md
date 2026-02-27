@@ -70,8 +70,6 @@ Hi, I’m **Angshuman** — curious by nature, always experimenting, and happies
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ganglet&theme=onedark&no-frame=true&margin-w=10)
-
----
+![](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Ganglet&theme=onedark&no-frame=true&margin-w=10)
 
 [![](https://visitcount.itsvg.in/api?id=Ganglet&icon=0&color=0)](https://visitcount.itsvg.in)
