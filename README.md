@@ -1,7 +1,7 @@
 <img align="right" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 # 💫 About Me
-Hi, I’m **Angshuman** — curious by nature, always experimenting, and happiest when I’m figuring something out or leveling up my skills.
+ML engineer across systems, scientific computing & security. LLMs · Agents · Genomic ML · EDA · Adversarial ML. B.Tech CSE @ NMIMS | Open to research internships.
 
 ---
 
