@@ -6,7 +6,7 @@ ML engineer across systems, scientific computing & security. LLMs · Agents · G
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angshuman-chakravertty-225513287/)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angshumanchakravertty2@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angshuman-chakravertty-225513287/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:angshumanchakravertty2@gmail.com)
 
 ---
 
@@ -25,7 +25,6 @@ ML engineer across systems, scientific computing & security. LLMs · Agents · G
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=netlify" width="50"/><br>Netlify</td>
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=angular" width="50"/><br>Angular</td>
   </tr>
-
   <tr style="border: none;">
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=fastapi" width="50"/><br>FastAPI</td>
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=flask" width="50"/><br>Flask</td>
@@ -38,7 +37,6 @@ ML engineer across systems, scientific computing & security. LLMs · Agents · G
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=postgres" width="50"/><br>PostgreSQL</td>
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=sqlite" width="50"/><br>SQLite</td>
   </tr>
-
   <tr style="border: none;">
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=redis" width="50"/><br>Redis</td>
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=supabase" width="50"/><br>Supabase</td>
@@ -51,25 +49,28 @@ ML engineer across systems, scientific computing & security. LLMs · Agents · G
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=docker" width="50"/><br>Docker</td>
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br>Kubernetes</td>
   </tr>
-
   <tr style="border: none;">
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=postman" width="50"/><br>Postman</td>
     <td align="center" style="border: none;"><img src="https://skillicons.dev/icons?i=notion" width="50"/><br>Notion</td>
   </tr>
-
 </table>
 
-
 ---
-
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ganglet&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://nirzak-streak-stats.vercel.app/?user=Ganglet&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ganglet&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Ganglet&theme=dark&hide_border=false)](https://git.io/streak-stats)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ganglet&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ganglet&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ganglet&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ganglet&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ganglet&theme=github_dark&utcOffset=5.5)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ganglet&theme=react-dark&hide_border=true)
 
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=Ganglet&theme=onedark&no-frame=true&margin-w=10)
-
-[![](https://visitcount.itsvg.in/api?id=Ganglet&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://github-profile-trophy.vercel.app/?username=Ganglet&theme=onedark&no-frame=true&margin-w=10)
